@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stinkboy115
+- 👋 Hi, I'm Daivd
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Programming and Solving Problem 1
 - 💞️ I’m looking to collaborate on ...
